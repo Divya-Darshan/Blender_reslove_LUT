@@ -1,6 +1,6 @@
 # Blender Resolve LUT
 
-A collection of LUTs (.cube files) inspired by DaVinci Resolve’s **Filmic Resolve** styles, ready to use in Blender for color grading and contrast adjustments.
+A collection of LUTs (.cube files) inspired by DaVinci Resolve’s **Filmic Resolve** styles, ready to use in Blender for color grading and contrast adjustments. for blender
 
 ---
 
